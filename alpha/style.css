@@ -1,5 +1,126 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
 header{
     width: 100%;
-    background-color: #abc4ff;
+    background-color: #DE3500;
+    margin:0;
+    font-family: 'Rowdies', cursive;
+}
+h1{
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: white;
     margin-top: 0;
+}
+.proto{
+    max-width: 50%;
+    display:block;
+    margin: auto;
+    filter: drop-shadow(0 0 0.25rem rgb(0, 0, 0));
+    padding-bottom: 2rem;
+}
+a{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    display: block;
+    text-align: center;
+    padding-bottom: 2rem;
+    text-decoration: none;
+}
+a:visited, a:hover{
+    color: #DE3500;
+}
+.headGrid{
+    display: grid;
+    grid-template-columns:auto auto 5%;
+    align-items: center;
+}
+.searchBar{
+    background-color: white;
+    max-height: 20%;
+    margin-right: 3rem;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+   
+}
+.bodyGrid{
+    display: grid;
+    grid-template-columns: 40% 30% 30%;
+    grid-template-rows: auto auto auto auto auto;
+    max-width: 100%;
+    
+}
+.burger{
+    grid-row: 1 / span 5;
+    max-width: 100%;
+}
+.button{
+    padding-bottom: .5rem;
+    padding-top: .5rem;
+    font-size: 2rem;
+    font-family: 'Rowdies', cursive;
+
+}
+.nav{
+    background-color: #E1BD00;
+    border: none;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.bod{
+    color: black;
+    font-family: 'Rowdies', cursive;
+    grid-template-rows: 2/ span 3;
+}
+.recImage{
+    grid-row: 4;
+    width: 50%;
+    margin: auto;  
+}
+.cap{
+    grid-row: 5;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.recImagepg{
+    display: block;
+    width: 50%;
+    margin: auto;  
+}
+.bodpg{
+    padding-left: 5rem;
+    color: black;
+    font-family: 'Rowdies', cursive;
+}
+.navpg{
+    background-color: #E1BD00;
+    border: none;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    align-content: center;
+}
+.centButtons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+.inactive{
+    opacity: 60%;
+}
+.bodpge{
+    text-align: center;
+    color: black;
+    font-family: 'Rowdies', cursive;
+    padding-left: 0;
+}
+.paraTxt{
+    text-align: center;
 }
