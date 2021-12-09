@@ -13,8 +13,8 @@ include 'helper.php';
 </head>
 
 <body>
-    <header class="navbar" id="secondary-navbar">
-        <div class="nav-menu">
+    <header>
+        <div>
                 <a href="category.php">Recipes</a>
                 <a href="all.php">All Recipes (Admin)</a>
                 <a href="add.php">Add Recipe (Admin)</a>

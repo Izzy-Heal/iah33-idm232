@@ -9,26 +9,26 @@ while ($row = mysqli_fetch_assoc($sql)) {
     $recipeIngredientsExplode = explode("|", htmlspecialchars_decode($row['recipeIngredients']));
     $recipeInstructionsExplode = explode("|", htmlspecialchars_decode($row['recipeInstructions']));
 ?>
-    <div class="detail-top">
-        <div id="text-side">
-            <h2 class="elsie"><?php echo $row['recipeTitle']; ?></h2>
+    <div >
+        <div >
+            <h2 ><?php echo $row['recipeTitle']; ?></h2>
             
         </div>
-        <div id="image-side">
+        <div >
             <li style='background: url("<?php echo $row['recipeImage'];?>"); background-size: cover; list-style-type: none; ")'></li>
         </div>
     </div>
-    <div class="detail-content">
-        <div class="detail-element">
-            <h4 class="detail-subtitle roboto">INGREDIENTS</h4>
-            <ul class="detail-list roboto">
+    <div>
+        <div >
+            <h4 >INGREDIENTS</h4>
+            <ul >
                 <?php foreach($recipeIngredientsExplode as $value){
                     echo "<li>$value</li>";}; ?>
             </ul>
         </div>
-        <div class="detail-element">
-            <h4 class="detail-subtitle roboto">INSTRUCTIONS</h4>
-            <ol class="detail-list roboto">
+        <div >
+            <h4 >INSTRUCTIONS</h4>
+            <ol >
                 <?php foreach ($recipeInstructionsExplode as $value) {
                 echo "<li>$value</li>";}; ?>
             </ol>

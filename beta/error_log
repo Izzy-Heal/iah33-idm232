@@ -439,3 +439,19 @@ Stack trace:
 [08-Dec-2021 18:49:02 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/all.php on line 9
 [08-Dec-2021 18:49:02 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/rec-preview.php on line 26
 [08-Dec-2021 18:49:58 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php on line 6
+[09-Dec-2021 07:55:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php on line 15
+[09-Dec-2021 07:56:29 America/Boise] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php on line 15
+[09-Dec-2021 07:57:46 America/Boise] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php on line 15
+[09-Dec-2021 07:57:51 America/Boise] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php on line 15
+[09-Dec-2021 07:59:32 America/Boise] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php on line 15
+[09-Dec-2021 08:00:14 America/Boise] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php on line 15
+[09-Dec-2021 08:00:16 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/all.php on line 9
+[09-Dec-2021 08:00:16 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/rec-preview.php on line 26
+[09-Dec-2021 08:00:57 America/Boise] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/add.php on line 15
+[09-Dec-2021 09:00:16 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/all.php on line 9
+[09-Dec-2021 09:00:16 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/rec-preview.php on line 26
+[09-Dec-2021 09:00:21 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/all.php on line 9
+[09-Dec-2021 09:00:21 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/rec-preview.php on line 26

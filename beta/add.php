@@ -4,6 +4,20 @@ $page_title = 'Add';
 include_once 'adminHeader.php';
 
 ?>
+
+<?php
+	if(isset($_POST['submit'])){
+	$recipeTitle =  $_POST['recipeTitle'];
+	$recipeImage = $_POST['imageBase64'];
+	$recipeIngredients =  $_POST['recipeIngredients'];
+	$recipeInstructions =  $_POST['recipeInstructions'];
+
+	$sql = "INSERT INTO recipe(recipeTitle, recipeImage, recipeIngredients, recipeInstructions) 
+	VALUES( $recipeTitle , $recipeImage , $recipeIngredients, $recipeInstructions )";
+
+}
+?>
+
 <html>
 <body>
 <script>
@@ -21,27 +35,27 @@ include_once 'adminHeader.php';
 </script>
 
 	<div>
-		<h2 class="secondary-title roboto">Add Recipe</h2>
-		<form method="POST" id="addRecipe" action="" enctype="multipart/form-data">
+		<h2 >Add Recipe</h2>
+		<form method="POST" action="" enctype="multipart/form-data">
 			<label for="title">Title:</label>
-			<input type="text" id="title" name="recipeTitle">
+			<input type="text" name="recipeTitle">
 
 			<label for="imageFile">Add Image</label>
-			<input type="file" id="imageFile" name="recipeImage" placeholder="Insert Image:" onchange="updateBase64()">
+			<input type="file" name="recipeImage" placeholder="Insert Image:" onchange="updateBase64()">
 
-			<div class="field_wrapper wrapper-style">
+			<div >
 				<label for="ingredients">Ingredients:</label>
-				<p class="roboto add-recipe-note">Use the '|' (vertical bar) key to separate each ingredient</p>
+				<p >Use the '|' (vertical bar) key to separate each ingredient</p>
 				<div>
-					<textarea class="add-text" id="ingredientList" name="recipeIngredients" placeholder="Ingredient 1"></textarea>
+					<textarea  name="recipeIngredients" placeholder="Ingredient 1"></textarea>
 				</div>
 			</div>
 
-			<div class="field_wrapper2 wrapper-style">
+			<div >
 				<label for="instructions">Instructions:</label>
-				<p class="roboto add-recipe-note">Use the '|' (vertical bar) key to separate each instruction</p>
+				<p >Use the '|' (vertical bar) key to separate each instruction</p>
 				<div>
-					<textarea class="add-text" type="text" id="instructionList" name="recipeInstructions" placeholder="Step 1"></textarea>
+					<textarea  type="text" id="instructionList" name="recipeInstructions" placeholder="Step 1"></textarea>
 				</div>
 			</div>
 
@@ -52,15 +66,3 @@ include_once 'adminHeader.php';
 
 <body>
 </html>
-<?php
-	if(isset($_POST["submit"])){
-	$recipeTitle =  $_POST['recipeTitle'];
-	$recipeImage = $_POST['imageBase64'];
-	$recipeIngredients =  $_POST['recipeIngredients'];
-	$recipeInstructions =  $_POST['recipeInstructions'];
-
-	$query = 'INSERT INTO recipe (recipeTitle, recipeImage, recipeIngredients, recipeInstructions)';
-	$query .= "VALUES ('{$recipeTitle}', '{$recipeImage} ', '{$recipeIngredients}', '{$recipeInstructions}')";
-
-}
-?>

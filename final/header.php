@@ -12,9 +12,9 @@ include 'helper.php';
     
 
 
-<body id="<?php echo $body_class; ?>">
-        <div class="nav-menu">
-            <div class="menu-items hover-style">
+<body>
+        <div>
+            <div>
                 <a href="category.php">Recipes</a>
                 <a href="all.php">All Recipes (Admin)</a>
                 <a href="add.php">Add Recipe (Admin)</a>

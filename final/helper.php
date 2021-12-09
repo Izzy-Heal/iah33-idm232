@@ -17,10 +17,6 @@ function siteUrl($path = '')
  * @param string $url
  * @return void
  */
-function redirectTo($path)
-{
-    header('Location: ' . $path);
-}
 
 /**
  * return date and time in the correct
