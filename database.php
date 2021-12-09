@@ -1,9 +1,9 @@
 <?php
 $db_connection = mysqli_connect(
-    $app['db_hostname'],
-    $app['db_username'],
-    $app['db_password'],
-    $app['db_database_name']
+    $app"localhost"
+    $app"root"
+    $app"root"
+    $app"recipe"
 );
 
 if (!$db_connection) {

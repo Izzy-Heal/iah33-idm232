@@ -1,0 +1,230 @@
+[22-Nov-2021 23:18:20 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:18:20 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:18:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[22-Nov-2021 23:20:03 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:20:03 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:20:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[22-Nov-2021 23:21:16 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:21:16 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:21:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[22-Nov-2021 23:21:20 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:21:20 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:21:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[22-Nov-2021 23:23:06 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:23:06 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[22-Nov-2021 23:23:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 08:58:35 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 08:58:35 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 08:58:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 08:58:39 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 08:58:39 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 08:58:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:02:10 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:02:10 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:02:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:05:24 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:05:24 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:05:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:14:15 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:14:15 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:14:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:14:43 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:14:43 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:14:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:17:40 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:17:40 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:17:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:18:19 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:18:19 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:18:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:20:40 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:20:40 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:20:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:33:41 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:33:41 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:33:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:34:38 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:34:38 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:34:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:39:30 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:39:30 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:39:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[24-Nov-2021 09:49:18 America/Boise] PHP Warning:  include_once(/home1/izzyheal/public_html/_global/header.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:49:18 America/Boise] PHP Warning:  include_once(): Failed opening '/home1/izzyheal/public_html/_global/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 2
+[24-Nov-2021 09:49:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function siteUrl() in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/index.php on line 6
+[07-Dec-2021 18:01:26 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 18:01:26 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 18:01:26 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 18:01:26 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 18:01:26 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 18:01:26 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 18:09:17 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 18:09:17 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 18:09:17 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 18:09:17 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 18:09:17 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 18:09:17 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:01:12 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:01:12 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:01:12 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:01:12 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:01:12 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:01:12 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:02:42 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:02:42 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:02:42 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:02:42 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:02:42 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:02:42 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:05:31 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:05:31 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:05:31 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:05:31 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:05:31 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:05:31 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:11:54 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:11:54 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:11:54 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:11:54 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:11:54 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:11:54 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:16:32 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:16:32 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:16:32 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:16:32 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:16:32 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:16:32 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:16:35 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:16:35 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:16:35 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:16:35 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:16:35 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:16:35 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:22:11 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:22:11 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:22:11 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:22:11 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:22:11 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:22:11 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:39:55 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:39:55 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:39:55 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 3
+[07-Dec-2021 19:39:55 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:39:55 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 19:39:55 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/global/header.php on line 4
+[07-Dec-2021 20:09:38 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:09:38 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:12:09 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:12:09 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:12:29 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:12:29 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:12:29 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:12:29 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:12:29 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:12:29 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:12:40 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:12:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:12:58 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:12:58 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:13:14 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:14 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:14 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:14 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:14 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:14 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:17 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:17 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:17 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:17 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:17 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:17 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:19 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:19 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:19 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:19 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:19 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:19 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:19 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/all.php on line 9
+[07-Dec-2021 20:13:19 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/rec-preview.php on line 2
+[07-Dec-2021 20:13:22 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:22 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:22 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:22 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:22 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:22 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:25 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:25 America/Boise] PHP Warning:  include(../includes/database.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:25 America/Boise] PHP Warning:  include(): Failed opening '../includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 3
+[07-Dec-2021 20:13:25 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:25 America/Boise] PHP Warning:  include(../includes/helper.php): failed to open stream: No such file or directory in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:25 America/Boise] PHP Warning:  include(): Failed opening '../includes/helper.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/adminHeader.php on line 4
+[07-Dec-2021 20:13:25 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/all.php on line 9
+[07-Dec-2021 20:13:25 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/rec-preview.php on line 2
+[07-Dec-2021 20:13:36 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 20:13:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/beta/database.php on line 7
+[07-Dec-2021 21:02:47 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[07-Dec-2021 21:02:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[07-Dec-2021 21:02:53 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[07-Dec-2021 21:02:53 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[07-Dec-2021 21:03:10 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[07-Dec-2021 21:03:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[08-Dec-2021 12:17:21 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[08-Dec-2021 12:17:21 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[08-Dec-2021 13:08:41 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[08-Dec-2021 13:08:41 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[08-Dec-2021 13:08:44 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
+[08-Dec-2021 13:08:44 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/izzyheal/public_html/idm232/idm232-iah33/final/database.php on line 7
