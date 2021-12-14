@@ -9,16 +9,16 @@ include_once 'header.php';
 
 <html>
 <body>
-<a class='ye' href ="/adminHome.php">Admin Pages</a>
+<a class='ye' href ="https://izzyheal.com/idm232/idm232-iah33/final/adminHome.php">Admin Pages</a>
         <div>
-            <h2>All Recipes</h2>
+            <h2>Recipes</h2>
         </div>
         <h3>Categories:</h3>
         <div class = "ye">
-        <a class = 'nop' href= '/category.php?category'>All</a>
-        <a  href= '/category.php?category=breakfast' >Breakfast</a>
-        <a  href= '/category.php?category=lunch' >Lunch</a>
-        <a  href= '/category.php?category=dinner' >Dinner</a>
+        <a class = 'nop' href= 'https://izzyheal.com/idm232/idm232-iah33/final/category.php?category'>All</a>
+        <a  href= 'https://izzyheal.com/idm232/idm232-iah33/final/category.php?category=breakfast' >Breakfast</a>
+        <a  href= 'https://izzyheal.com/idm232/idm232-iah33/final/category.php?category=lunch' >Lunch</a>
+        <a  href= 'https://izzyheal.com/idm232/idm232-iah33/final/category.php?category=dinner' >Dinner</a>
 </div>
       <?php  
 $query = "SELECT * FROM info";
@@ -33,7 +33,7 @@ if ($cat == 'breakfast'){
         $nr++;
         $chngrow = $chngrow + 1;
         $id = $row["id"];
-        echo "<p>Recipe: " . $row["recipeTitle"]. " <a href=/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
+        echo "<p><b>Recipe: </b>" . $row["recipeTitle"]. " <a href=https://izzyheal.com/idm232/idm232-iah33/final/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
     }}
 }
 
@@ -43,7 +43,7 @@ elseif ($cat == 'lunch'){
         $nr++;
         $chngrow = $chngrow + 1;
         $id = $row["id"];
-        echo "<p>Recipe: " . $row["recipeTitle"]. " <a href=/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
+        echo "<p><b>Recipe: </b>" . $row["recipeTitle"]. " <a href=https://izzyheal.com/idm232/idm232-iah33/final/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
     }}
 }
 
@@ -53,7 +53,7 @@ elseif ($cat == 'dinner'){
         $nr++;
         $chngrow = $chngrow + 1;
         $id = $row["id"];
-        echo "<p>Recipe: " . $row["recipeTitle"]. " <a href=/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
+        echo "<p><b>Recipe: </b>" . $row["recipeTitle"]. " <a href=https://izzyheal.com/idm232/idm232-iah33/final/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
     }}
 }
 else {
@@ -61,7 +61,7 @@ else {
         $nr++;
         $chngrow = $chngrow + 1;
         $id = $row["id"];
-        echo "<p><b>Recipe: </b>" . $row["recipeTitle"]. " <a href=/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
+        echo "<p><b>Recipe: </b>" . $row["recipeTitle"]. " <a href=https://izzyheal.com/idm232/idm232-iah33/final/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
     }
 }
 

@@ -2,7 +2,7 @@
 
 include 'database.php';
 include 'helper.php';
-
+error_reporting(0);
 ?>
 
 <html>
@@ -25,10 +25,10 @@ include 'helper.php';
         <div>
             <div class="header">
                 <div class="lineUp">
-                <a href="category.php">Recipes</a>
+                <a href="https://izzyheal.com/idm232/idm232-iah33/final/category.php">Recipes</a>
                 </div>
                 <div class="lineUp">
-                <form action="/search.php" method="GET">
+                <form action="https://izzyheal.com/idm232/idm232-iah33/final/search.php" method="GET">
                     <input class = 'nop' type="text"  name="keyword" placeholder="search">
                     <input class = 'nop' type="submit"  value="SEARCH">
                     </form>

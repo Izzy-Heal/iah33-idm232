@@ -21,7 +21,7 @@ if ($result && $result->num_rows > 0) {
         $nr++;
         $chngrow = $chngrow + 1;
         $id = $row["id"];
-        echo "<p>id: " . $row["id"]. " - Name: " . $row["recipeTitle"]. "<a href=/edit.php?id=".$id.">Edit</a></p><br>"; 
+        echo "<p>id: " . $row["id"]. " - Name: " . $row["recipeTitle"]. "<a href=https://izzyheal.com/idm232/idm232-iah33/final/edit.php?id=".$id.">Edit</a></p><br>"; 
     }
    
 } else {

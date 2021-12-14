@@ -3,6 +3,7 @@
 include 'database.php';
 include 'helper.php';
 include 'config.php';
+error_reporting(0);
 ?>
 
 <html>
@@ -23,12 +24,12 @@ include 'config.php';
         <div class="header">
         <div class="lineUp">
 
-                <a href="category.php">Recipes</a>
-                <a href="all.php">All Recipes (Admin)</a>
-                <a href="add.php">Add Recipe (Admin)</a>
+                <a href="https://izzyheal.com/idm232/idm232-iah33/final/category.php">Recipes</a>
+                <a href="https://izzyheal.com/idm232/idm232-iah33/final/all.php">All Recipes (Admin)</a>
+                <a href="https://izzyheal.com/idm232/idm232-iah33/final/add.php">Add Recipe (Admin)</a>
             </div>
             <div class="lineUp">
-                <form action="/search.php?keyword=`keyword`" method="GET">
+                <form action="https://izzyheal.com/idm232/idm232-iah33/final/search.php?keyword=`keyword`" method="GET">
                     <input class = 'nop'type="text" class="searchTerm" name="keyword" placeholder="search">
                     <input class = 'nop'type="submit" class="searchButton" value="SEARCH">
                     </form>

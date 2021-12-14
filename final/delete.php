@@ -9,7 +9,7 @@ include_once 'adminHeader.php';
     $db_results = mysqli_query($my_connection, $sql);
     
     if ($db_results) {
-        redirectTo('/all.php');
+        redirectTo('https://izzyheal.com/idm232/idm232-iah33/final/all.php');
     } 
 
 

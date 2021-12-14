@@ -19,10 +19,10 @@ $my_connection->query($query);
 <body>
 	<div>
 		<h2 >Add Recipe</h2>
-		<form  action="" method="post">
+		<form  action="" method="POST">
 			
 			<label for="recipeTitle">Title:</label>
-			<input type="text" name="recipeTitle">
+			<input class = "nop" type="text" name="recipeTitle">
 <br>
 			<label for="recipeImage">Add Image</label>
 			<input class="ye" type="file" name="recipeImage" placeholder="Insert Image:" > 

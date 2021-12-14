@@ -19,7 +19,7 @@
     echo "<p>Number of items displayed: ". $result->num_rows . "<br>";
     if ($result->num_rows > 0) {
         while($row = $result->fetch_assoc() ) {
-        echo "Name: " . $row["recipeTitle"]. "<a href=/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
+        echo "<p>Name: " . $row["recipeTitle"]. "<a href=https://izzyheal.com/idm232/idm232-iah33/final/recipe-detail.php?id=".$id.">View Recipe</a></p><br>";
     } }
   
     

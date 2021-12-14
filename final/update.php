@@ -26,4 +26,4 @@ include 'config.php';
 	
 
 ?>
-<a href = "/all.php">Back to View All (admin)</a>
+<a href = "https://izzyheal.com/idm232/idm232-iah33/final/all.php">Back to View All (admin)</a>
