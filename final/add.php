@@ -1,68 +1,61 @@
 <?php
-$page_title = 'Add';
-
 include_once 'adminHeader.php';
 
-?>
+if (isset($_POST['submit'])){
+$recipeTitle = mysqli_real_escape_string($my_connection, $_POST['recipeTitle']);
+$recipeImage = mysqli_real_escape_string($my_connection, $_POST['recipeImage']);
+$recipeIngredients = mysqli_real_escape_string($my_connection, $_POST['recipeIngredients']);
+$recipeInstructions = mysqli_real_escape_string($my_connection, $_POST['recipeInstructions']);
+$recipeCategory = mysqli_real_escape_string($my_connection, $_POST['recipeCategory']);
 
-<?php
-	if(isset($_POST['submit'])){
-	$recipeTitle =  $_POST['recipeTitle'];
-	$recipeImage = $_POST['imageBase64'];
-	$recipeIngredients =  $_POST['recipeIngredients'];
-	$recipeInstructions =  $_POST['recipeInstructions'];
+$query = "INSERT INTO `info`(`recipeTitle`, `recipeImage`, `recipeIngredients`, `recipeInstructions`, `recipeCategory`)";
+$query .= "VALUES ('{$recipeTitle}','{$recipeImage}','{$recipeIngredients}','{$recipeInstructions}','{$recipeCategory}')";
 
-	$sql = "INSERT INTO recipe(recipeTitle, recipeImage, recipeIngredients, recipeInstructions) 
-	VALUES( $recipeTitle , $recipeImage , $recipeIngredients, $recipeInstructions )";
-
+$my_connection->query($query);
 }
 ?>
 
 <html>
 <body>
-<script>
-	function updateBase64() {
-		var file = document.querySelector('input[type=file]')['files'][0];
-		var reader = new FileReader();
-		var baseString;
-		reader.onloadend = function() {
-			baseString = reader.result;
-			document.getElementById("imageBase64").value = baseString;
-			console.log(baseString);
-		};
-		reader.readAsDataURL(file);
-	}
-</script>
-
 	<div>
 		<h2 >Add Recipe</h2>
-		<form method="POST" action="" enctype="multipart/form-data">
-			<label for="title">Title:</label>
+		<form  action="" method="post">
+			
+			<label for="recipeTitle">Title:</label>
 			<input type="text" name="recipeTitle">
-
-			<label for="imageFile">Add Image</label>
-			<input type="file" name="recipeImage" placeholder="Insert Image:" onchange="updateBase64()">
+<br>
+			<label for="recipeImage">Add Image</label>
+			<input class="ye" type="file" name="recipeImage" placeholder="Insert Image:" > 
 
 			<div >
-				<label for="ingredients">Ingredients:</label>
-				<p >Use the '|' (vertical bar) key to separate each ingredient</p>
-				<div>
+				<label for="recipeIngredients">Ingredients:</label>
+				<p >Write out your ingredients.</p>
+				<div class="ye">
 					<textarea  name="recipeIngredients" placeholder="Ingredient 1"></textarea>
 				</div>
 			</div>
 
 			<div>
-				<label for="instructions">Instructions:</label>
-				<p >Use the '|' (vertical bar) key to separate each instruction</p>
-				<div>
+				<label for="recipeInstructions">Instructions:</label>
+				<p >Write out your instructions.</p>
+				<div class="ye">
 					<textarea  type="text"  name="recipeInstructions" placeholder="Step 1"></textarea>
 				</div>
 			</div>
 
+			<div>
+				<label for="recipeCategory">Instructions:</label>
+				<p >Enter category of either breakfast, lunch, or dinner with no capital letters</p>
+				<div class="ye">
+					<textarea  type="text"  name="recipeCategory" placeholder="Lunch"></textarea>
+				</div>
+			</div>
+
 			<input type="hidden" name="imageBase64" id="imageBase64" />
-			<button type="submit" value="Submit" name="submit">Add Recipe</button>
+			<div class="ye">
+			<button  type="submit" value="Submit" name="submit">Add Recipe</button>
+</div>
 		</form>
 	</div>
-
 <body>
 </html>

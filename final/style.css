@@ -1,9 +1,52 @@
-p{
-    font-family: 'Raleway', sans-serif;
-  }
-  img{
-    max-width: 70%;
-  }
-  h1 h2{
-    font-family: 'Fugaz One', cursive;
-  }
+body{
+  font-family: 'Raleway', sans-serif;
+  background-color: lightgoldenrodyellow;
+  margin: 0;
+
+  
+}
+p,h1,h2,h3,h4,label,input{
+padding-left: 20%;
+
+}
+label{
+  font-weight: bold;
+}
+.ye{
+  padding-left: 20%;
+  padding-bottom: 1rem;
+}
+.nop{
+  padding-left: 0;
+}
+a {
+  font-family: 'Raleway', sans-serif;
+  color: rgb(20, 17, 8);
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+img{
+  max-width: 60%;
+  display: block;
+  margin: auto;
+}
+
+header{
+  background-color: lightcoral;
+}
+.header{
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.lineUp{
+  flex-direction: row;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+button{
+  border: none;
+  background-color: coral;
+  padding: 1rem 1.25rem;
+}

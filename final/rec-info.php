@@ -1,15 +1,25 @@
 <?php
-$recipe_id = $_GET['id'];
+$query = "SELECT * FROM info";
+$db_results = mysqli_query($my_connection, $query);
+  if ($result->num_rows > 0) {
+    // output data of each row
+    while($row = $result->fetch_assoc()) {
+      echo "id: " . $row["id"]. " - Name: " . $row["recipeTitle"]. "<br>";
+    }
+  } else {
+    echo "0 results";
+  }
+  $conn->close();
 
-$sql = mysqli_query($con, "SELECT * FROM recipeInfo WHERE id='$recipeInfo_id'");
 
-while ($row = mysqli_fetch_assoc($sql)) {
-    $recipeIngredients = $row['recipeIngredients'];
-    $recipeInstructions = $row['recipeInstructions'];
-    $recipeIngredientsExplode = explode("|", htmlspecialchars_decode($row['recipeIngredients']));
-    $recipeInstructionsExplode = explode("|", htmlspecialchars_decode($row['recipeInstructions']));
+//while ($row = mysqli_fetch_assoc($sql)) {
+  //  $recipeIngredients = $row['recipeIngredients'];
+    //$recipeInstructions = $row['recipeInstructions'];
+ //   $recipeIngredientsExplode = explode("|", htmlspecialchars_decode($row['recipeIngredients']));
+   // $recipeInstructionsExplode = explode("|", htmlspecialchars_decode($row['recipeInstructions']));
+
 ?>
-    <div >
+    <-- <div>
         <div >
             <h2 ><?php echo $row['recipeTitle']; ?></h2>
             
@@ -34,6 +44,3 @@ while ($row = mysqli_fetch_assoc($sql)) {
             </ol>
         </div>
     </div>
-<?php
-}
-?>
